@@ -78,5 +78,5 @@ theme: snippet
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ArcherDing/ArcherDing.github.io.git
+  repo: git@github.com:ArcherDing/ArcherDing.github.io.git
   branch: master
