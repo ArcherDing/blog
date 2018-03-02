@@ -91,7 +91,7 @@ arch_config:
 
 ## 友链设置
 links:
-  - 个人博客: http://archerding.me
+  - 个人博客: http://archerding.site
   - 凌谷软件: http://www.exlley.com
 
 # 主题自定义个性化配置
@@ -126,7 +126,7 @@ declaration:
   enable: true
   title: '转载声明'
   tip: |-
-      商业转载请联系作者获得授权,非商业转载请注明出处 © <a href="http://archerding.me" target="_blank">Archer Ding</a>
+      商业转载请联系作者获得授权,非商业转载请注明出处 © <a href="http://archerding.site" target="_blank">Archer Ding</a>
 
 
 ## 主题评论
